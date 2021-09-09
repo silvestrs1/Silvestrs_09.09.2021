@@ -42,9 +42,9 @@ function zimet(){
  zime.beginPath();
  zime.arc(50, 150, 60, 0, 2 * Math.PI);
  zime.stroke();
- zime.fillStyle = "pink";
+ zime.fillStyle = "yellow";
  zime.fill();
- zime.strokeStyle = "pink"
+ zime.strokeStyle = "yellow"
  zime.stroke();
 
  //vidējā bumba
